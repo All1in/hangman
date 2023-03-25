@@ -1,13 +1,13 @@
 import { useState } from 'react'
-import words from './words.json'
 import HangmanDrawing from './components/HangmanDrawing/HangmanDrawing'
+import HangmanWord from "./components/HangmanWord/HangmanWord";
+import words from './words.json'
 import './styles/App.css'
 
 function App() {
   const [wordToGuess, setWordToGuess] = useState(() => {
       return words[Math.floor(Math.random() * words.length)]
   })
-
   const [guessedLetters, setGuessedLetters] = useState<string[]>([])
 
   return (
@@ -17,6 +17,7 @@ function App() {
             Win
         </div>
         <HangmanDrawing />
+        <HangmanWord />
     </div>
   )
 }
