@@ -1,5 +1,5 @@
 import React from 'react';
-import { KEYS } from './keyboard'
+import { KEYS } from '../../keyboard'
 import { KeyboardProps } from '../../types'
 import styles from './Keyboard.module.css'
 
