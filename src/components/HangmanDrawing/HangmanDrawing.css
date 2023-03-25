@@ -1,0 +1,33 @@
+.hangmanContainer {
+    position: relative;
+}
+
+.oneMore {
+    height: 50px;
+    width: 10px;
+    background-color: #000000;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-left: 120px;
+}
+
+.anotherOne {
+    height: 10px;
+    width: 200px;
+    background-color: #000000;
+    margin-left: 120px;
+}
+
+.another {
+    height: 400px;
+    width: 10px;
+    background-color: #000000;
+    margin-left: 120px;
+}
+
+.anotherContainer {
+    height: 10px;
+    width: 250px;
+    background-color: #000000;
+}
