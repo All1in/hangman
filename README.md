@@ -2,8 +2,8 @@
 
 <div align="center">
   <img width="90%" src="https://www.coolmathgames.com/sites/default/files/Hangman%20OG%20Image.png" alt="image"/>
-  <img width="45%" src="https://t4.ftcdn.net/jpg/05/17/38/33/360_F_517383341_8nWEFfM1KL3K5LNTjUDrne3x0kZiuxuj.jpg" alt="image"/>
-  <img width="45%" height="480px" src="https://t4.ftcdn.net/jpg/05/11/07/13/360_F_511071324_M9zRvlGjGSsYCbEGIYgWOvhZ5A9xzAU6.jpg" alt="image"/>
+  <img width="45%" height="350px" src="https://t4.ftcdn.net/jpg/05/17/38/33/360_F_517383341_8nWEFfM1KL3K5LNTjUDrne3x0kZiuxuj.jpg" alt="image"/>
+  <img width="45%" height="350px" src="https://t4.ftcdn.net/jpg/05/11/07/13/360_F_511071324_M9zRvlGjGSsYCbEGIYgWOvhZ5A9xzAU6.jpg" alt="image"/>
 </div>
 
 
